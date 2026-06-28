@@ -109,6 +109,10 @@ Automations contributed by the community.
 - [Version Bump Advisor](automations/version-bump-advisor/README.md) - Recommend semantic version bump based on changes.
 - [Migration Script Validator](automations/migration-script-validator/README.md) - Verify migration scripts are reversible and consistent.
 
+### Agent Operations
+
+- [Nightly Closeout](automations/nightly-closeout/README.md) - Turn unused end-of-day model capacity into safe overnight Codex/Claude work loops with project triage, guardrails, and Codex Goals.
+
 ---
 
 ## Contributing
